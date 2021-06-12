@@ -1,0 +1,66 @@
+ [
+  {
+    "title": "Peer Performance Reviews",
+    "by": " by WorkPi",
+    "id": 1,
+    "img": "head",
+    "exclude": false
+  },
+  {
+    "title": "References",
+    "by": " by REFQ",
+    "id": 2,
+    "img": "search",
+    "exclude": false
+  },
+   {
+     "title": "Creativity",
+     "by": " ",
+     "id": 9,
+     "img": "create",
+     "exclude": true
+   },
+   {
+     "title": "Personally Test",
+     "by": " by TWEGOS",
+     "id": 5,
+     "img": "test",
+     "exclude": false
+   },
+   {
+     "title": "Self-Reflection Feat",
+     "by": " by 360 Feedback",
+     "id": 7,
+     "img": "self",
+     "exclude": false
+   },
+  {
+    "title": "Leadership Capabilities",
+    "by": " by Management Drivers",
+    "id": 3,
+    "img": "leader",
+    "exclude": false
+  },
+   {
+     "title": "Culture Feat",
+     "by": " by TWEGOS",
+     "id": 6,
+     "img": "puzzle",
+     "exclude": false
+   },
+   {
+     "title": "Multitasking",
+     "by": " ",
+     "id": 8,
+     "img": "task",
+     "exclude": true
+   },
+  {
+    "title": "Team Building",
+    "by": " by Management Drivers",
+    "id": 4,
+    "img": "groups",
+    "exclude": false
+  }
+
+]
