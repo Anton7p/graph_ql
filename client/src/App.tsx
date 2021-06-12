@@ -3,7 +3,7 @@ import {icons} from './icons'
 import {IData} from "./types/types";
 import {GET_DATA} from "./query/data";
 import {useQuery} from "@apollo/client";
-import {useWindowDimensions} from "./useWindowDimensions";
+import {useWindowDimensions} from "./hook/useWindowDimensions";
 
 function filterWindowWidth(arr: IData): IData {
     if (window.innerWidth > 1020) return arr;
